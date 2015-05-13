@@ -1,2 +1,3 @@
-# code-examples
-Repository to hold all of the code examples referenced from the docs. 
+# Code Examples
+
+This repository holds all of the examples referenced in the Code Examples section of the CloudMine Documentation.
