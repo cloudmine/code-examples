@@ -47,6 +47,5 @@ ws.api("code/schedule", {method:"PUT"}, {
 	}
 }).on("complete", function(res){
 	// Examine the results of the call
-	console.log(res);
 	console.log(util.inspect(res, null, 5));
 });
