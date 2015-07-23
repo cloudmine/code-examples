@@ -9,8 +9,8 @@ will then go through copying that file and associating the copied file with a ne
 */
 
 // Enter your CloudMine app information here
-var APP_ID = '66134f24d39d435a87f2bb189a44618a'; // Your application ID
-var API_KEY = 'A6E6677D6EF84074989A665F33B54650'; // Your desired API key
+var APP_ID = 'dsjiofh8934jf93482g5h2497vh47v8h'; // Your application ID
+var API_KEY = 'cuh3498hf2975hv059874hjv04589jvw'; // Your desired API key
 
 var FILE_KEY = 'fileKey'; // The key for the first upload of the file
 var FILE_LOCATION = 'path/to/file'; // The path to the file that you'd like to upload / copy
